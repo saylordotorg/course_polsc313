@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC313: US Intelligence and National Security"
+course_description: "A detailed survey of national security policy analysis and the United States intelligence community, examining strategic thought and strategy formulation, national security issues and threats, and the political and military institutions involved in the formulation and execution of national security policy."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: The Impact of Economic Strife and Conflict over Scarce
 Resources on US National Security** <span id="9"></span> 
 *While there is little doubt that democratic countries tend to be more

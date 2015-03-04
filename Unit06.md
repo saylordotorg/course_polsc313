@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC313: US Intelligence and National Security"
+course_description: "A detailed survey of national security policy analysis and the United States intelligence community, examining strategic thought and strategy formulation, national security issues and threats, and the political and military institutions involved in the formulation and execution of national security policy."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The Impact of Nuclear, Chemical, and Biological Weapons on US
 Security** <span id="6"></span> 
 *For nearly five decades following World War II, the threat of nuclear
